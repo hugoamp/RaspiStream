@@ -1,0 +1,5 @@
+#
+# VideoCore interface
+#
+
+KERNEL=="vchiq", GROUP="http", MODE="0660"
